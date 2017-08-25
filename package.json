@@ -1,0 +1,19 @@
+{
+  "name": "https-exp-node",
+  "version": "0.0.1",
+  "description": "Launch your own Expanse node and access it via HTTPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expanse",
+    "https",
+    "node"
+  ],
+  "author": "Christopher Franko",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
